@@ -41,6 +41,9 @@
     font-size: 20px;
     font-weight: bold;
 }
+.text-center{
+    text-align: center;
+}
 /* Header Section Styles Starts */
 /* Navbar Section Styles Starts */
 nav{
@@ -213,4 +216,40 @@ main section{
     gap: 12px;
 }
 /* News Section Styles Ends */
+/* Donate Section Styles Starts */
+.donate{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.amount-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 24px;
+    margin-top: 32px;
+}
+.amount{
+    background-color: white;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    padding: 40px;
+}
+#default-amount{
+    background-color: #C6E4D6;
+}
+#donate-text-box{
+    width: 1130px;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 32px;
+}
+main input[type="text"]{
+    text-align: center;
+    font-size: 16px;
+}
+#donate-btn{
+    margin-top: 32px;
+}
+/* Donate Section Styles Ends */
 /* Main Section Styles Ends */
