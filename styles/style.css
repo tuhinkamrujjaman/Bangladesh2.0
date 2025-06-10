@@ -109,4 +109,75 @@ main section{
     padding: 24px;
 }
 /* Features Section Styles Ends */
+/* Vision Section Styles Starts */
+.vision-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.vision-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    border: none;
+    border-radius: 16px;
+    padding: 32px;
+}
+.vision-btn-1{
+    background-color: #5490F5;
+    color: white;
+    font-weight: 600;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+}
+.vision-2{
+    background-color: #C6E4D6;
+    border: none;
+    border-radius: 16px;
+    padding: 32px;
+}
+.vision-btn-2{
+    background-color: #09A15C;
+    color: white;
+    font-weight: 600;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+}
+.vision-3{
+    background-color: #F7EBCF;
+    border: none;
+    border-radius: 16px;
+    padding: 32px;
+}
+.vision-btn-3{
+    background-color: #FFC239;
+    color: white;
+    font-weight: 600;
+    padding: 11px 20px;
+    border: none;
+    border-radius: 8px;
+}
+.vision-description{
+    margin-bottom: 32px;
+}
+.quote{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background-color: white;
+    padding: 30px 25px;
+    margin-top: 32px;
+}
+.quote-img {
+    width: 64px;
+    height: 64px;
+    opacity: 0.7;
+}
+.quote-content{
+    margin-top: -50px;
+}
+.quote-speaker{
+    font-size: 20px;
+    font-weight: 600;
+}
+/* Vision Section Styles Ends */
 /* Main Section Styles Ends */
