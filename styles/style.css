@@ -180,4 +180,37 @@ main section{
     font-weight: 600;
 }
 /* Vision Section Styles Ends */
+/* News Section Styles Starts */
+.news-card-container{
+    margin-top: 32px;
+}
+.news-card{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: none;
+    border-radius: 24px;
+    padding: 48px;
+    gap: 40px;
+    margin-bottom: 24px;
+}
+.news-image{
+    width: 410px;
+}
+.news-image img{
+    border-radius: 24px;
+}
+.news-content{
+    margin-top: -40px;
+}
+.news-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.news-dates{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+/* News Section Styles Ends */
 /* Main Section Styles Ends */
