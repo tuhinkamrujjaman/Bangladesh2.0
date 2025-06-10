@@ -2,3 +2,47 @@
   font-family: "Fira Sans", sans-serif;
   font-style: normal;
 }
+/* Shared Styles */
+.bg-secondary{
+    background-color: #F1F1F3;
+}
+.dark-1{
+    color: #0E0E0E;
+}
+.dark-2{
+    color: rgba(14, 14, 14, 0.8);
+}
+.dark-3{
+    color: rgba(14, 14, 14, 0.7);
+}
+.dark-4{
+    color: rgba(14, 14, 14, 0.6);
+}
+.dark-5{
+    color: rgba(14, 14, 14, 0.5);
+}
+.dark-6{
+    color: rgba(14, 14, 14, 0.3);
+}
+/* Header Section Styles Starts */
+/* Navbar Section Styles Starts */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 160px;
+}
+.nav-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.nav-btn{
+    color: #006A50;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 30px;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+}
+/* Navbar Section Styles Ends */
+/* Header Section Styles Ends */
