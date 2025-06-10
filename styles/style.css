@@ -233,6 +233,10 @@ main section{
     border: 1px solid rgba(14, 14, 14, 0.15);
     border-radius: 16px;
     padding: 40px;
+    transition: background-color 0.3s ease;
+}
+.amount:hover{
+    background-color: #C6E4D6;
 }
 #default-amount{
     background-color: #C6E4D6;
