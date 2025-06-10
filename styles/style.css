@@ -276,3 +276,21 @@ main input[type="text"]{
 }
 /* Newsletter Section Styles Ends */
 /* Main Section Styles Ends */
+/* Footer Section Styles Starts */
+footer{
+    background-color: white;
+    text-align: center;
+    padding: 50px 160px;
+}
+.footer-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.footer-line{
+    height: 1px;
+    background-color: rgba(14, 14, 14, 0.1);
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+/* Footer Section Styles Ends */
