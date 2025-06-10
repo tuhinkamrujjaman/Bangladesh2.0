@@ -256,4 +256,23 @@ main input[type="text"]{
     margin-top: 32px;
 }
 /* Donate Section Styles Ends */
+/* Newsletter Section Styles Starts */
+.newsletter{
+    background-color: #C6E4D6;
+    border: none;
+    border-radius: 24px;
+    padding: 80px 100px;
+    text-align: center;
+}
+.newsletter input[type="email"]{
+    width: 600px;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+.newsletter p{
+    margin-top: 20px;
+}
+/* Newsletter Section Styles Ends */
 /* Main Section Styles Ends */
